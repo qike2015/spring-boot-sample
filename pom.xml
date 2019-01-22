@@ -12,6 +12,7 @@
         <module>dubbo-sample</module>
         <module>parent</module>
         <module>security-sample</module>
+        <module>rabbitmq-sample</module>
     </modules>
 
 </project>

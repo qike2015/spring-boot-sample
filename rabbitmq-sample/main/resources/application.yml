@@ -1,0 +1,5 @@
+spring:
+  rabbitmq:
+    host: www.qikecloud.com
+    password: buke~123
+    username: buke
